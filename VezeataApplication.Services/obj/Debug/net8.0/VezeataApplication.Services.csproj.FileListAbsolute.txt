@@ -1,0 +1,17 @@
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.csproj.AssemblyReference.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.AssemblyInfoInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.AssemblyInfo.cs
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.csproj.CoreCompileInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Services.deps.json
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Services.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Services.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Core.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Repository.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Core.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\bin\Debug\net8.0\VezeataApplication.Repository.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.csproj.CopyComplete
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\refint\VezeataApplication.Services.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\VezeataApplication.Services.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Services\obj\Debug\net8.0\ref\VezeataApplication.Services.dll
