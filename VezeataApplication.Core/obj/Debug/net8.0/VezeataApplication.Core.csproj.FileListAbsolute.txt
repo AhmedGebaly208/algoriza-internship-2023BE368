@@ -1,0 +1,12 @@
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\bin\Debug\net8.0\VezeataApplication.Core.deps.json
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\bin\Debug\net8.0\VezeataApplication.Core.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\bin\Debug\net8.0\VezeataApplication.Core.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.csproj.AssemblyReference.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.AssemblyInfoInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.AssemblyInfo.cs
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.csproj.CoreCompileInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\refint\VezeataApplication.Core.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\VezeataApplication.Core.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Core\obj\Debug\net8.0\ref\VezeataApplication.Core.dll
