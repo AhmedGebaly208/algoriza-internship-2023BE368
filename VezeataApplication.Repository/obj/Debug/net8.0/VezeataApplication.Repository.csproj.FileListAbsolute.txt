@@ -1,0 +1,17 @@
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Repository.deps.json
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Repository.runtimeconfig.json
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Repository.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Repository.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Core.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\bin\Debug\net8.0\VezeataApplication.Core.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.csproj.AssemblyReference.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.AssemblyInfoInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.AssemblyInfo.cs
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.csproj.CoreCompileInputs.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.csproj.CopyComplete
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\refint\VezeataApplication.Repository.dll
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.pdb
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\VezeataApplication.Repository.genruntimeconfig.cache
+C:\WebApiCore\VezeataApplication.API\VezeataApplication.Repository\obj\Debug\net8.0\ref\VezeataApplication.Repository.dll
